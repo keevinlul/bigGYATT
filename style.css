@@ -1,0 +1,58 @@
+body {
+    color: whitesmoke;
+    background: rgb(84, 84, 84);
+    margin: 0px;
+    font-family: "Ubuntu Sans Mono", monospace;
+    margin-bottom: 100px;
+}
+
+header{
+    border-bottom: solid 3px rgb(8, 25, 213);
+    padding: 20px;
+    font-size: 30px;
+    color:rgb(8, 25, 213);
+}
+
+.primeiro{
+    background: #65070f;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto{
+    margin-right: 5%;
+}
+
+
+h1{
+    font-size: 37px;
+}
+
+p{
+    font-size: 21px;
+}
+
+
+.kiwi{
+    display: flex;
+    gap: 10px;
+}
+.segundo{
+    padding-left:  20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.segundo img{
+    opacity: 0.5;
+    height: 235px;
+}
+.segundo img:hover{
+    opacity: 1.0;
+    border: 1px solid pink;
+}
+.segundo h2{
+    color:rgb(8, 25, 213);
+    
+}
